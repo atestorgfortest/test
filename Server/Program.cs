@@ -10,6 +10,9 @@ namespace Server
     {
         static void Main(string[] args)
         {
+            while(1==1)
+                Console.Write("test");
+            Console.WriteLine("WHAT?!!?");
         }
     }
 }
